@@ -1,4 +1,4 @@
-# RabbitMQ Main Information.
+# RabbitMQ.
 
 
 
